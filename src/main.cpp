@@ -1,5 +1,5 @@
-#ifndef __AVR_ATmega328P__ //to get rid of  vscode linter errors (change this is MCU is changed)
-#define __AVR_ATmega328P__ //to get rid of  vscode linter errors (change this is MCU is changed)
+#ifndef __AVR_ATmega328P__ 
+#define __AVR_ATmega328P__ //to get rid of  vscode linter errors 
 #endif
 #include <avr/io.h>
 #include <util/delay.h>
